@@ -1,13 +1,14 @@
 # My Personal Website
 My personal site
 
-### Credits:
-Design:
-...[HTML5 UP](https://html5up.net)
+# Credits:
 
-Icons:
-...[Font Awesome](https://fontawesome.com/)
+#### Design:
+[HTML5 UP](https://html5up.net)
 
-Other:
-...[jQuery](https://jquery.com/)
-...[Responsive Tools](https://github.com/ajlkn/responsive-tools)
+#### Icons:
+[Font Awesome](https://fontawesome.com/)
+
+#### Other:
+[jQuery](https://jquery.com/)
+[Responsive Tools](https://github.com/ajlkn/responsive-tools)
