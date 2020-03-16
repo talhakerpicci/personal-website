@@ -1,7 +1,7 @@
 # My Personal Website
-My personal site
+My personal website
 
-# Credits:
+## Credits:
 
 #### Design:
 [HTML5 UP](https://html5up.net)
@@ -11,4 +11,5 @@ My personal site
 
 #### Other:
 [jQuery](https://jquery.com/)
+
 [Responsive Tools](https://github.com/ajlkn/responsive-tools)
