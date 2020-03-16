@@ -1,15 +1,12 @@
-# My Personal Website
-My personal website
-
-## Credits:
+# Credits:
 
 #### Design:
-[HTML5 UP](https://html5up.net)
+&nbsp;&nbsp;&nbsp;&nbsp;[HTML5 UP](https://html5up.net)
 
 #### Icons:
-[Font Awesome](https://fontawesome.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;[Font Awesome](https://fontawesome.com/)
 
 #### Other:
-[jQuery](https://jquery.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;[jQuery](https://jquery.com/)
 
-[Responsive Tools](https://github.com/ajlkn/responsive-tools)
+&nbsp;&nbsp;&nbsp;&nbsp;[Responsive Tools](https://github.com/ajlkn/responsive-tools)
