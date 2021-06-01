@@ -5,11 +5,7 @@
         <title>Simple Library App</title>
         <item>
             <title>Version 1.1.1</title>
-            <description>
-            Minor updates and improvements
-            Bug fixes
-            Added new features
-        	</description>
+            <description>Minor updates and improvements<br/>Bug fixes<br/>Added new features</description>
             <enclosure url="https://play.google.com/store/apps/details?id=com.talhakerpicci.simplelibrary" sparkle:version="1.1.1" sparkle:os="android"/>
         </item>
     </channel>
